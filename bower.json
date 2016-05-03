@@ -1,0 +1,19 @@
+{
+  "name": "ihakula-lion",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wayde191/ihakula-lion.git",
+  "authors": [
+    "Wayde Sun"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "node_modules",
+    "public/bower_components",
+    ".jshintrc"
+  ],
+  "dependencies": {
+    "jquery": "2.1.1",
+    "jquery-ui": "1.10.4"
+  }
+}
